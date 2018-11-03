@@ -1,0 +1,8 @@
+{
+  "name": "spartiates-web",
+  "dependencies": {
+  "bootstrap": "3.3.7",
+  "jquery": "1.11.3",
+  "moment": "2.15.2"
+  }
+}

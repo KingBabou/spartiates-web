@@ -7,6 +7,11 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('contacts');
+  this.route('equipes');
+  this.route('evenementiels');
+  this.route('entrainements');
+  this.route('competiteurs');
 });
 
 export default Router;
